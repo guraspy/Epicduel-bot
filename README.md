@@ -12,11 +12,11 @@ leg_bigtuna.py for boss Legendary Big Tuna.
 You can run lowres.py with Python or make it executable with pyinstaller. 
 
 Requirements:
-Python 3
-Windows 10
+Python 3,
+Windows 10,
 Resolution 800x600
 
 Usage:
-Ensure you have the Epicduel Quality set to "Low". Drag the Epicduel window to the right side of the screen so that it only covers half of the window screen. (For this click on the epicduel window and click the Window Key and right arrow at the same time) And bot window to the left side to not cover game window.
+Ensure you have the Epicduel Quality set to "Low". Drag the Epicduel window to the right side of the screen so that it only covers half of the window screen. (For this click on the epicduel window and click the Windows Key and right arrow at the same time) And bot window to the left side to not cover game window.
 
 After these steps, you can start the program. If nothing happens make sure you have completed the steps.
