@@ -2349,7 +2349,4 @@ def finish(kills, losses, x_algorithm_use_rate):
         return kills, losses,  x_algorithm_use_rate  
 
     print("\nFailed with 50 confidence")
-"""  
-
-    
-finish(1,2,3)    
+"""     
